@@ -105,7 +105,7 @@
     "dependencies": {
         "prop-types": "^15.7.2",
         "react-select": "^3.0.8",
-        "react-transition-group": "^2.3.1",
+        "react-transition-group": "^4.3.0",
         "react-scrollspy": "^3.3.5",
         "reactstrap": "^8.0.0",
         "webfontloader": "^1.6.28"
